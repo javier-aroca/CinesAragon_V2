@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CinesAragón</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="top_header">Cines Aragon</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_username">Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="button_next">Entrar</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="error_password">Password must contain at least 8 characters.</string>
+</resources>
